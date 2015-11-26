@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+
+
+#mainTable {
+   font-size: 16px;
+   font-family: 'Arial', sans-serif;
+   text-align: center;
+   vertical-align: middle;
+   width: 410px;
+   margin-left: auto;
+   margin-right: auto;
+   border-collapse: separate;
+   border-spacing: 10px 5px;
+}
+
+img {
+	width: 120px;
+	height: 180px;
+}
+
+.tb_header {
+	padding-bottom: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#fldLeft    {
+	text-align: center;
+	width: 165px;
+	height: 180px;
+	padding:0px;
+	border: 1px solid #333333;
+	cursor:pointer;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#fldRight   {
+	text-align: center;
+	width: 165px;
+	height: 180px;
+	padding:0px;
+	border: 1px solid #333333;
+	cursor:pointer;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#fldMiddleT {
+	text-align: center;
+	width: 150px;
+	height: 90px;
+	padding:0px;
+	border: 1px solid #333333;
+	cursor:pointer;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#fldMiddleB {
+	text-align: center;
+	width: 150px;
+	height: 90px;
+	padding:0px;
+	border: 1px solid #333333;
+	cursor:pointer;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.cbox {
+	cursor:pointer;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+div#resultField {
+    display: block;
+    width: 80%;
+    margin: 0px auto;
+}
+
+.resTable {
+    display: block;
+    float: left;
+	font-size:12px;
+	line-height:120%;
+	margin: 0.5em;
+	border:1px solid #000;
+	border-collapse:collapse;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.resTableH {
+	background-color:#000000;
+	text-align:center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.resTableL {
+
+	border:1px solid #000000;
+	text-align:right;
+	padding-right:5px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.resTableR {
+
+	border:1px solid #000000;
+	// padding-left:5px;
+	font-family: Arial, Helvetica, sans-serif;
+    width: 14em;
+}
+
+a       {
+	text-decoration:none;
+	font-family: Arial, Helvetica, sans-serif;
+}
+a:hover {
+	color:#99ccff;
+	font-family: Arial, Helvetica, sans-serif;
+}
