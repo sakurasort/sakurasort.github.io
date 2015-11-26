@@ -59,7 +59,7 @@ var ary_CharacterData = [
   [1, "Sato Hinata",        [0,1,0,0,0,0], "graduated/hinata.jpg"],
   [1, "Iida Raura",         [0,1,0,0,0,0], "graduated/rau.jpg"],
   [1, "Horiuchi Marina",    [0,1,0,0,0,0], "graduated/marina.jpg"],
-  [1, "Sugimoto Mariri",   [0,1,0,0,0,0], "graduated/mariri.jpg"],
+  [1, "Sugimoto Mariri",    [0,1,0,0,0,0], "graduated/mariri.jpg"],
   [1, "Nakamoto Suzuka",    [0,1,0,0,0,0], "graduated/su.jpg"],
   [1, "Muto Ayami",         [0,1,0,0,0,0], "graduated/ayami.jpg"],
   [1, "Matsui Airi",        [0,1,0,0,0,0], "graduated/airi.jpg"],
@@ -70,5 +70,9 @@ var ary_CharacterData = [
   [1, "Aoyama Hideki",      [0,0,1,0,0,0], "bm/aoyama.jpg"],
   [1, "BOH",                [0,0,1,0,0,0], "bm/boh.jpg"],
   [1, "Fujioka Mikio",      [0,0,1,0,0,0], "bm/fujioka.jpg"],
-  [1, "Ohmura Takayoshi",   [0,0,1,0,0,0], "bm/ohmura.jpg"]
+  [1, "Ohmura Takayoshi",   [0,0,1,0,0,0], "bm/ohmura.jpg"],
+  [1, "Leda",               [0,0,1,0,0,0], "bm/leda.jpg"],
+  [1, "Maeta Yuuya",        [0,0,1,0,0,0], "bm/maeta.jpg"],
+  [1, "ISAO",               [0,0,1,0,0,0], "bm/isao.jpg"],
+  [1, "Koba",               [0,0,1,0,0,0], "bm/koba.jpg"]
 ];
