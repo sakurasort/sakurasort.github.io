@@ -59,7 +59,7 @@ var ary_CharacterData = [
   [1, "Sato Hinata",        [0,1,0,0,0,0], "graduated/hinata.jpg"],
   [1, "Iida Raura",         [0,1,0,0,0,0], "graduated/rau.jpg"],
   [1, "Horiuchi Marina",    [0,1,0,0,0,0], "graduated/marina.jpg"],
-  [1, "Sugimoto Mariri"],   [0,1,0,0,0,0], "graduated/mariri.jpg"],
+  [1, "Sugimoto Mariri",   [0,1,0,0,0,0], "graduated/mariri.jpg"],
   [1, "Nakamoto Suzuka",    [0,1,0,0,0,0], "graduated/su.jpg"],
   [1, "Muto Ayami",         [0,1,0,0,0,0], "graduated/ayami.jpg"],
   [1, "Matsui Airi",        [0,1,0,0,0,0], "graduated/airi.jpg"],
