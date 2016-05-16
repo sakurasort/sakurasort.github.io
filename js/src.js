@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-	$("#menu-restart, #menu-recs, #btn-rawtext").hover(function() {
+	$("#btn-rawtext, .menu-link").hover(function() {
 		$(this).css("background-color", "#1b1b79");
 	},function() {
 		$(this).css("background-color", "#000038");
