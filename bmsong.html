@@ -7,16 +7,16 @@
 		<meta http-equiv="pragma" content="no-cache">
 		<meta http-equiv="Cache-Control" content="no-cache">
 		<meta name="author" content="kama">
-		<title>Sakura Gakuin Sort /bmsg/ Edition</title>
+		<title>BABYMETAL Song Sort</title>
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 		<script type="text/javascript" src="js/mod_k-factory.js"></script>
 		<script type="text/javascript" src="js/fnc_main_v3.js"></script>
-		<script type="text/javascript" src="js/fnc_data_v2.js"></script>
-		<script type="text/javascript" src="js/op.js"></script>
-		<script type="text/javascript" src="js/src.js"></script>
+		<script type="text/javascript" src="js/bm/fnc_data_v2.js"></script>
+		<script type="text/javascript" src="js/bm/op.js"></script>
+		<script type="text/javascript" src="js/bm/src.js"></script>
 		<link rel="stylesheet" type="text/css" href="css/kcs_style.css">
-		<link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="shortcut icon" href="img/favicon.png" />
+		<link rel="stylesheet" type="text/css" href="css/style-bm.css">
+    <link rel="shortcut icon" href="img/favicon.ico" />
 	</head>
 
 	<body onload="startup()">
@@ -26,7 +26,7 @@
       <div class="menu-item"><p>Battle No. <span id="lblCount">-</span></p></div>
       <div class="menu-item"><p><span id="lblProgress">0</span>% sorted</p></div>
       <div id="menu-right">
-        <a href="http://www.sakuragakuin.jp/">
+        <a href="http://www.babymetal.jp/">
           <div class="menu-item menu-link"><p>Homepage</p></div>
         </a>
         <a href="https://github.com/sakurasort/sakurasort.github.io">
@@ -46,12 +46,12 @@
 
 				<tbody>
 					<tr>
-						<td id="fldLeft" onclick="fnc_Sort(-1);" rowspan="2"><img src="img/sg.png"></td>
+						<td id="fldLeft" onclick="fnc_Sort(-1);" rowspan="2"><img src="img/bm.png"></td>
 						<td style="border: 0px; width: 7px;" rowspan="2"></td>
-						<td id="fldMiddleT" onclick="fnc_Sort(0);"><p>Sakura Gakuin Sort</p>
-							<p> /bmsg/ Edition </p></td>
+						<td id="fldMiddleT" onclick="fnc_Sort(0);"><p>BM Song Sort</p>
+							<p></p></td>
 						<td style="border: 0px; width: 7px;" rowspan="2"></td>
-						<td id="fldRight" onclick="fnc_Sort(1);" rowspan="2"><img src="img/sg.png"></td>
+						<td id="fldRight" onclick="fnc_Sort(1);" rowspan="2"><img src="img/bm.png"></td>
 					</tr>
 					<tr>
 						<td id="fldMiddleB" onclick="fnc_Undo();">Click to start!</td>
