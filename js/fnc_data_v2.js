@@ -47,7 +47,6 @@ var ary_CharacterData = [
   [1, "Asou Maaya",         [1,0,0,0,0,0], "current/members_idx_asou.jpg"],
   [1, "Hidaka Marin",       [1,0,0,0,0,0], "current/members_idx_hidaka.jpg"],
   [1, "Okada Megumi",       [1,0,0,0,0,0], "current/members_idx_okada.jpg"],
-  [1, "Kurosawa Mirena",    [1,0,0,0,0,0], "current/members_idx_kurosawa.jpg"],
   [1, "Okazaki Momoko",     [1,0,0,0,0,0], "current/members_idx_okazaki.jpg"],
   [1, "Yoshida Soyoka",     [1,0,0,0,0,0], "current/members_idx_yoshida.jpg"],
   [1, "Yagi Miki",          [1,0,0,0,0,0], "current/members_idx_yagi.jpg"],
