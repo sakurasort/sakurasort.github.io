@@ -48,7 +48,7 @@ var ary_CharacterData = [
   [1, "Nozaki Yume",        [1,0,0,0,0,0], "current/members_idx_nozaki.jpg"],   
   [1, "Nonaka Kokona",      [1,0,0,0,0,0], "current/members_idx_nonaka.jpg"],   
   [1, "Shiratori Sana",     [1,0,0,0,0,0], "current/members_idx_shiratori.jpg"],
-  [1, "Satou Neo",          [1,0,0,0,0,0], "current/members_idx_satou.jpg"],
+  [1, "Satou Neo",          [1,0,0,0,0,0], "current/members_idx_sato.jpg"],
   [1, "Todaka Miko",        [1,0,0,0,0,0], "current/members_idx_todaka.jpg"],
   [1, "Kimura Sakia",       [1,0,0,0,0,0], "current/members_idx_kimura.jpg"],    
   [1, "Asou Maaya",         [0,1,0,0,0,0], "graduated/members_idx_asou.jpg"],  
